@@ -1,0 +1,9 @@
+{
+  "name": "EduMix - Modern Learning Platform",
+  "description": "A premium online course platform with a modern design, featuring course discovery, enrollment, and interactive learning experiences.",
+  "requestFramePermissions": [
+    "camera",
+    "microphone",
+    "geolocation"
+  ]
+}
